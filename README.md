@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pn4944@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z3G51x-6kg5W7vrDC-le3xbW2k1U4Oq5/view](https://drive.google.com/file/d/1z3G51x-6kg5W7vrDC-le3xbW2k1U4Oq5/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z3G51x-6kg5W7vrDC-le3xbW2k1U4Oq5/view)
 
 - ⚡ Fun fact **Koala's are way cool than you think, so is GoLang**
 
