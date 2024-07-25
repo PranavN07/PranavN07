@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="left" alt="Pengui" width="400" src="https://i.gifer.com/XOsX.gif">
+<img align="left" alt="Pengui" width="100" src="https://i.gifer.com/XOsX.gif">
 <p align="left">
 <a href="https://linkedin.com/in/pranav-ninawe-8b1463216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-ninawe-8b1463216/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/awenin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/awenin/" height="30" width="40" /></a>
