@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="padding-top:125.326%;position:relative;"><iframe src="https://gifer.com/embed/XOsX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <p align="left">
 <a href="https://linkedin.com/in/pranav-ninawe-8b1463216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-ninawe-8b1463216/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/awenin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/awenin/" height="30" width="40" /></a>
