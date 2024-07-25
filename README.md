@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **System Designs Basic along with Fullstack Tech.**
 
-- 💬 Ask me about **JS, React,DSA,ML,DL,LLM's**
+- 💬 Ask me about **JS, React, OpenSource Community, DSA, ML, DL, LLM's**
 
 - 📫 How to reach me **pn4944@gmail.com**
 
