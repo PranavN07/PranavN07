@@ -2,7 +2,7 @@
 <h1 align="center">Greetings 👋, Pranav Here</h1>
 <h3 align="center">Moving things, one at a time</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://www.google.com/imgres?q=linkedin%20background%20wallpaper&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC4E12AQEi-QWgAwgxXQ%2Farticle-inline_image-shrink_1500_2232%2F0%2F1546835635037%3Fe%3D1729123200%26v%3Dbeta%26t%3DP0Vjfr-7HbupW5QdO-4vA-KUBgnqCOSkmUalQDB_yCU&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F21-free-linkedin-background-photos-personal-profiles-stefan-wilkerson&docid=y07FLlrxrRX4hM&tbnid=U__VqtOCEkFGlM&vet=12ahUKEwiJqffx-_mHAxXRRmcHHYhHHDwQM3oECHsQAA..i&w=1584&h=396&hcb=2&ved=2ahUKEwiJqffx-_mHAxXRRmcHHYhHHDwQM3oECHsQAA)" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Bitcoin Payments Decentralized App](https://github.com/PranavN07/Audit-Chain)
 
