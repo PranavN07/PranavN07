@@ -2,7 +2,7 @@
 <h1 align="center">Greetings 👋, Pranav Here</h1>
 <h3 align="center">Moving things, one at a time</h3>
 
-<p align="left"> <a href="https://leetcode.com/u/awenin/" target="blank"><img src="masthead.jpeg" alt="" /></a> </p>
+<p align="left"> <a href="https://leetcode.com/u/awenin/" target="blank"><img src="Screenshot 2024-08-16 222632.png" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Bitcoin Payments Decentralized App](https://github.com/PranavN07/Audit-Chain)
 
